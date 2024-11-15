@@ -147,6 +147,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0875-longest-mountain-in-array](https://github.com/VarsKhushi/DSA-Task-Khushi-2215000645-Batch2/tree/master/0875-longest-mountain-in-array) |
 | [0890-lemonade-change](https://github.com/VarsKhushi/DSA-Task-Khushi-2215000645-Batch2/tree/master/0890-lemonade-change) |
 | [1044-find-common-characters](https://github.com/VarsKhushi/DSA-Task-Khushi-2215000645-Batch2/tree/master/1044-find-common-characters) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/VarsKhushi/DSA-Task-Khushi-Varshney-2215000913-Batch2/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1813-maximum-erasure-value](https://github.com/VarsKhushi/DSA-Task-Khushi-2215000645-Batch2/tree/master/1813-maximum-erasure-value) |
 | [2211-k-radius-subarray-averages](https://github.com/VarsKhushi/DSA-Task-Khushi-2215000645-Batch2/tree/master/2211-k-radius-subarray-averages) |
 | [2634-minimum-common-value](https://github.com/VarsKhushi/DSA-Task-Khushi-2215000645-Batch2/tree/master/2634-minimum-common-value) |
@@ -161,6 +162,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0016-3sum-closest](https://github.com/VarsKhushi/DSA-Task-Khushi-2215000645-Batch2/tree/master/0016-3sum-closest) |
 | [0455-assign-cookies](https://github.com/VarsKhushi/DSA-Task-Khushi-2215000645-Batch2/tree/master/0455-assign-cookies) |
 | [0875-longest-mountain-in-array](https://github.com/VarsKhushi/DSA-Task-Khushi-2215000645-Batch2/tree/master/0875-longest-mountain-in-array) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/VarsKhushi/DSA-Task-Khushi-Varshney-2215000913-Batch2/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2634-minimum-common-value](https://github.com/VarsKhushi/DSA-Task-Khushi-2215000645-Batch2/tree/master/2634-minimum-common-value) |
 ## Greedy
 |  |
@@ -196,6 +198,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 ## Binary Search
 |  |
 | ------- |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/VarsKhushi/DSA-Task-Khushi-Varshney-2215000913-Batch2/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2634-minimum-common-value](https://github.com/VarsKhushi/DSA-Task-Khushi-2215000645-Batch2/tree/master/2634-minimum-common-value) |
 ## Dynamic Programming
 |  |
@@ -215,4 +218,12 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/VarsKhushi/DSA-Task-Khushi-Varshney-2215000913-Batch2/tree/master/0040-combination-sum-ii) |
+## Stack
+|  |
+| ------- |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/VarsKhushi/DSA-Task-Khushi-Varshney-2215000913-Batch2/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/VarsKhushi/DSA-Task-Khushi-Varshney-2215000913-Batch2/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 <!---LeetCode Topics End-->

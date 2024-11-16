@@ -154,6 +154,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [2756-buy-two-chocolates](https://github.com/VarsKhushi/DSA-Task-Khushi-2215000645-Batch2/tree/master/2756-buy-two-chocolates) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/VarsKhushi/DSA-Task-Khushi-2215000645-Batch2/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/VarsKhushi/DSA-Task-Khushi-2215000645-Batch2/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/VarsKhushi/DSA-Task-Khushi-Varshney-2215000913-Batch2/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -214,6 +215,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | ------- |
 | [1813-maximum-erasure-value](https://github.com/VarsKhushi/DSA-Task-Khushi-2215000645-Batch2/tree/master/1813-maximum-erasure-value) |
 | [2211-k-radius-subarray-averages](https://github.com/VarsKhushi/DSA-Task-Khushi-2215000645-Batch2/tree/master/2211-k-radius-subarray-averages) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/VarsKhushi/DSA-Task-Khushi-Varshney-2215000913-Batch2/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Backtracking
 |  |
 | ------- |

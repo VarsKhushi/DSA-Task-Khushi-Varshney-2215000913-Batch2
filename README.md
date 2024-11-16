@@ -142,6 +142,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0015-3sum](https://github.com/VarsKhushi/DSA-Task-Khushi-2215000645-Batch2/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/VarsKhushi/DSA-Task-Khushi-2215000645-Batch2/tree/master/0016-3sum-closest) |
 | [0040-combination-sum-ii](https://github.com/VarsKhushi/DSA-Task-Khushi-Varshney-2215000913-Batch2/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/VarsKhushi/DSA-Task-Khushi-Varshney-2215000913-Batch2/tree/master/0042-trapping-rain-water) |
 | [0152-maximum-product-subarray](https://github.com/VarsKhushi/DSA-Task-Khushi-2215000645-Batch2/tree/master/0152-maximum-product-subarray) |
 | [0455-assign-cookies](https://github.com/VarsKhushi/DSA-Task-Khushi-2215000645-Batch2/tree/master/0455-assign-cookies) |
 | [0875-longest-mountain-in-array](https://github.com/VarsKhushi/DSA-Task-Khushi-2215000645-Batch2/tree/master/0875-longest-mountain-in-array) |
@@ -161,6 +162,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0011-container-with-most-water](https://github.com/VarsKhushi/DSA-Task-Khushi-2215000645-Batch2/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/VarsKhushi/DSA-Task-Khushi-2215000645-Batch2/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/VarsKhushi/DSA-Task-Khushi-2215000645-Batch2/tree/master/0016-3sum-closest) |
+| [0042-trapping-rain-water](https://github.com/VarsKhushi/DSA-Task-Khushi-Varshney-2215000913-Batch2/tree/master/0042-trapping-rain-water) |
 | [0455-assign-cookies](https://github.com/VarsKhushi/DSA-Task-Khushi-2215000645-Batch2/tree/master/0455-assign-cookies) |
 | [0875-longest-mountain-in-array](https://github.com/VarsKhushi/DSA-Task-Khushi-2215000645-Batch2/tree/master/0875-longest-mountain-in-array) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/VarsKhushi/DSA-Task-Khushi-Varshney-2215000913-Batch2/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -204,6 +206,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/VarsKhushi/DSA-Task-Khushi-Varshney-2215000913-Batch2/tree/master/0042-trapping-rain-water) |
 | [0152-maximum-product-subarray](https://github.com/VarsKhushi/DSA-Task-Khushi-2215000645-Batch2/tree/master/0152-maximum-product-subarray) |
 | [0875-longest-mountain-in-array](https://github.com/VarsKhushi/DSA-Task-Khushi-2215000645-Batch2/tree/master/0875-longest-mountain-in-array) |
 ## Enumeration
@@ -223,10 +226,12 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/VarsKhushi/DSA-Task-Khushi-Varshney-2215000913-Batch2/tree/master/0042-trapping-rain-water) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/VarsKhushi/DSA-Task-Khushi-Varshney-2215000913-Batch2/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/VarsKhushi/DSA-Task-Khushi-Varshney-2215000913-Batch2/tree/master/0042-trapping-rain-water) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/VarsKhushi/DSA-Task-Khushi-Varshney-2215000913-Batch2/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Linked List
 |  |

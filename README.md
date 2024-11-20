@@ -191,6 +191,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [1044-find-common-characters](https://github.com/VarsKhushi/DSA-Task-Khushi-2215000645-Batch2/tree/master/1044-find-common-characters) |
 | [1813-maximum-erasure-value](https://github.com/VarsKhushi/DSA-Task-Khushi-2215000645-Batch2/tree/master/1813-maximum-erasure-value) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/VarsKhushi/DSA-Task-Khushi-Varshney-2215000913-Batch2/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2599-take-k-of-each-character-from-left-and-right](https://github.com/VarsKhushi/DSA-Task-Khushi-Varshney-2215000913-Batch2/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2634-minimum-common-value](https://github.com/VarsKhushi/DSA-Task-Khushi-2215000645-Batch2/tree/master/2634-minimum-common-value) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/VarsKhushi/DSA-Task-Khushi-2215000645-Batch2/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Counting
@@ -201,6 +202,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 |  |
 | ------- |
 | [1044-find-common-characters](https://github.com/VarsKhushi/DSA-Task-Khushi-2215000645-Batch2/tree/master/1044-find-common-characters) |
+| [2599-take-k-of-each-character-from-left-and-right](https://github.com/VarsKhushi/DSA-Task-Khushi-Varshney-2215000913-Batch2/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 ## Binary Search
 |  |
 | ------- |
@@ -223,6 +225,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [1813-maximum-erasure-value](https://github.com/VarsKhushi/DSA-Task-Khushi-2215000645-Batch2/tree/master/1813-maximum-erasure-value) |
 | [2211-k-radius-subarray-averages](https://github.com/VarsKhushi/DSA-Task-Khushi-2215000645-Batch2/tree/master/2211-k-radius-subarray-averages) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/VarsKhushi/DSA-Task-Khushi-Varshney-2215000913-Batch2/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2599-take-k-of-each-character-from-left-and-right](https://github.com/VarsKhushi/DSA-Task-Khushi-Varshney-2215000913-Batch2/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/VarsKhushi/DSA-Task-Khushi-Varshney-2215000913-Batch2/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Backtracking
 |  |

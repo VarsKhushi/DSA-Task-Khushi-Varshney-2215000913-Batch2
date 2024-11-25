@@ -145,6 +145,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0042-trapping-rain-water](https://github.com/VarsKhushi/DSA-Task-Khushi-Varshney-2215000913-Batch2/tree/master/0042-trapping-rain-water) |
 | [0152-maximum-product-subarray](https://github.com/VarsKhushi/DSA-Task-Khushi-2215000645-Batch2/tree/master/0152-maximum-product-subarray) |
 | [0455-assign-cookies](https://github.com/VarsKhushi/DSA-Task-Khushi-2215000645-Batch2/tree/master/0455-assign-cookies) |
+| [0787-sliding-puzzle](https://github.com/VarsKhushi/DSA-Task-Khushi-Varshney-2215000913-Batch2/tree/master/0787-sliding-puzzle) |
 | [0875-longest-mountain-in-array](https://github.com/VarsKhushi/DSA-Task-Khushi-2215000645-Batch2/tree/master/0875-longest-mountain-in-array) |
 | [0890-lemonade-change](https://github.com/VarsKhushi/DSA-Task-Khushi-2215000645-Batch2/tree/master/0890-lemonade-change) |
 | [1044-find-common-characters](https://github.com/VarsKhushi/DSA-Task-Khushi-2215000645-Batch2/tree/master/1044-find-common-characters) |
@@ -277,6 +278,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/VarsKhushi/DSA-Task-Khushi-Varshney-2215000913-Batch2/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0787-sliding-puzzle](https://github.com/VarsKhushi/DSA-Task-Khushi-Varshney-2215000913-Batch2/tree/master/0787-sliding-puzzle) |
 ## Binary Tree
 |  |
 | ------- |
@@ -284,6 +286,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 ## Matrix
 |  |
 | ------- |
+| [0787-sliding-puzzle](https://github.com/VarsKhushi/DSA-Task-Khushi-Varshney-2215000913-Batch2/tree/master/0787-sliding-puzzle) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/VarsKhushi/DSA-Task-Khushi-Varshney-2215000913-Batch2/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1972-rotating-the-box](https://github.com/VarsKhushi/DSA-Task-Khushi-Varshney-2215000913-Batch2/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/VarsKhushi/DSA-Task-Khushi-Varshney-2215000913-Batch2/tree/master/2089-maximum-matrix-sum) |

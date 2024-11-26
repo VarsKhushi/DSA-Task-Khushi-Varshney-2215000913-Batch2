@@ -303,4 +303,8 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/VarsKhushi/DSA-Task-Khushi-Varshney-2215000913-Batch2/tree/master/0062-unique-paths) |
+## Graph
+|  |
+| ------- |
+| [3189-find-champion-ii](https://github.com/VarsKhushi/DSA-Task-Khushi-Varshney-2215000913-Batch2/tree/master/3189-find-champion-ii) |
 <!---LeetCode Topics End-->

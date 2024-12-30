@@ -240,6 +240,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0494-target-sum](https://github.com/VarsKhushi/DSA-Task-Khushi-Varshney-2215000913-Batch2/tree/master/0494-target-sum) |
 | [0875-longest-mountain-in-array](https://github.com/VarsKhushi/DSA-Task-Khushi-2215000645-Batch2/tree/master/0875-longest-mountain-in-array) |
 | [1063-best-sightseeing-pair](https://github.com/VarsKhushi/DSA-Task-Khushi-Varshney-2215000913-Batch2/tree/master/1063-best-sightseeing-pair) |
+| [2562-count-ways-to-build-good-strings](https://github.com/VarsKhushi/DSA-Task-Khushi-Varshney-2215000913-Batch2/tree/master/2562-count-ways-to-build-good-strings) |
 ## Enumeration
 |  |
 | ------- |

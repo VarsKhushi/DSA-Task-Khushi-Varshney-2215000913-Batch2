@@ -227,6 +227,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/VarsKhushi/DSA-Task-Khushi-Varshney-2215000913-Batch2/tree/master/0022-generate-parentheses) |
 | [1044-find-common-characters](https://github.com/VarsKhushi/DSA-Task-Khushi-2215000645-Batch2/tree/master/1044-find-common-characters) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/VarsKhushi/DSA-Task-Khushi-Varshney-2215000913-Batch2/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2232-adding-spaces-to-a-string](https://github.com/VarsKhushi/DSA-Task-Khushi-Varshney-2215000913-Batch2/tree/master/2232-adding-spaces-to-a-string) |
@@ -240,6 +241,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/VarsKhushi/DSA-Task-Khushi-Varshney-2215000913-Batch2/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/VarsKhushi/DSA-Task-Khushi-Varshney-2215000913-Batch2/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/VarsKhushi/DSA-Task-Khushi-Varshney-2215000913-Batch2/tree/master/0062-unique-paths) |
 | [0152-maximum-product-subarray](https://github.com/VarsKhushi/DSA-Task-Khushi-2215000645-Batch2/tree/master/0152-maximum-product-subarray) |
@@ -263,6 +265,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/VarsKhushi/DSA-Task-Khushi-Varshney-2215000913-Batch2/tree/master/0022-generate-parentheses) |
 | [0040-combination-sum-ii](https://github.com/VarsKhushi/DSA-Task-Khushi-Varshney-2215000913-Batch2/tree/master/0040-combination-sum-ii) |
 | [0494-target-sum](https://github.com/VarsKhushi/DSA-Task-Khushi-Varshney-2215000913-Batch2/tree/master/0494-target-sum) |
 ## Stack

@@ -141,6 +141,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0011-container-with-most-water](https://github.com/VarsKhushi/DSA-Task-Khushi-2215000645-Batch2/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/VarsKhushi/DSA-Task-Khushi-2215000645-Batch2/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/VarsKhushi/DSA-Task-Khushi-2215000645-Batch2/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/VarsKhushi/DSA-Task-Khushi-Varshney-2215000913-Batch2/tree/master/0018-4sum) |
 | [0040-combination-sum-ii](https://github.com/VarsKhushi/DSA-Task-Khushi-Varshney-2215000913-Batch2/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/VarsKhushi/DSA-Task-Khushi-Varshney-2215000913-Batch2/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/VarsKhushi/DSA-Task-Khushi-Varshney-2215000913-Batch2/tree/master/0075-sort-colors) |
@@ -177,6 +178,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0011-container-with-most-water](https://github.com/VarsKhushi/DSA-Task-Khushi-2215000645-Batch2/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/VarsKhushi/DSA-Task-Khushi-2215000645-Batch2/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/VarsKhushi/DSA-Task-Khushi-2215000645-Batch2/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/VarsKhushi/DSA-Task-Khushi-Varshney-2215000913-Batch2/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/VarsKhushi/DSA-Task-Khushi-Varshney-2215000913-Batch2/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/VarsKhushi/DSA-Task-Khushi-Varshney-2215000913-Batch2/tree/master/0075-sort-colors) |
 | [0455-assign-cookies](https://github.com/VarsKhushi/DSA-Task-Khushi-2215000645-Batch2/tree/master/0455-assign-cookies) |
@@ -201,6 +203,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | ------- |
 | [0015-3sum](https://github.com/VarsKhushi/DSA-Task-Khushi-2215000645-Batch2/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/VarsKhushi/DSA-Task-Khushi-2215000645-Batch2/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/VarsKhushi/DSA-Task-Khushi-Varshney-2215000913-Batch2/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/VarsKhushi/DSA-Task-Khushi-Varshney-2215000913-Batch2/tree/master/0075-sort-colors) |
 | [0455-assign-cookies](https://github.com/VarsKhushi/DSA-Task-Khushi-2215000645-Batch2/tree/master/0455-assign-cookies) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/VarsKhushi/DSA-Task-Khushi-Varshney-2215000913-Batch2/tree/master/1468-check-if-n-and-its-double-exist) |

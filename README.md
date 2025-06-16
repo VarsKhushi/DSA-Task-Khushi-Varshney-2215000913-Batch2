@@ -146,6 +146,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0042-trapping-rain-water](https://github.com/VarsKhushi/DSA-Task-Khushi-Varshney-2215000913-Batch2/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/VarsKhushi/DSA-Task-Khushi-Varshney-2215000913-Batch2/tree/master/0075-sort-colors) |
 | [0152-maximum-product-subarray](https://github.com/VarsKhushi/DSA-Task-Khushi-2215000645-Batch2/tree/master/0152-maximum-product-subarray) |
+| [0300-longest-increasing-subsequence](https://github.com/VarsKhushi/DSA-Task-Khushi-Varshney-2215000913-Batch2/tree/master/0300-longest-increasing-subsequence) |
 | [0455-assign-cookies](https://github.com/VarsKhushi/DSA-Task-Khushi-2215000645-Batch2/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/VarsKhushi/DSA-Task-Khushi-Varshney-2215000913-Batch2/tree/master/0494-target-sum) |
 | [0787-sliding-puzzle](https://github.com/VarsKhushi/DSA-Task-Khushi-Varshney-2215000913-Batch2/tree/master/0787-sliding-puzzle) |
@@ -235,6 +236,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 ## Binary Search
 |  |
 | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/VarsKhushi/DSA-Task-Khushi-Varshney-2215000913-Batch2/tree/master/0300-longest-increasing-subsequence) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/VarsKhushi/DSA-Task-Khushi-Varshney-2215000913-Batch2/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/VarsKhushi/DSA-Task-Khushi-Varshney-2215000913-Batch2/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2634-minimum-common-value](https://github.com/VarsKhushi/DSA-Task-Khushi-2215000645-Batch2/tree/master/2634-minimum-common-value) |
@@ -246,6 +248,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0062-unique-paths](https://github.com/VarsKhushi/DSA-Task-Khushi-Varshney-2215000913-Batch2/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/VarsKhushi/DSA-Task-Khushi-Varshney-2215000913-Batch2/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/VarsKhushi/DSA-Task-Khushi-2215000645-Batch2/tree/master/0152-maximum-product-subarray) |
+| [0300-longest-increasing-subsequence](https://github.com/VarsKhushi/DSA-Task-Khushi-Varshney-2215000913-Batch2/tree/master/0300-longest-increasing-subsequence) |
 | [0494-target-sum](https://github.com/VarsKhushi/DSA-Task-Khushi-Varshney-2215000913-Batch2/tree/master/0494-target-sum) |
 | [0875-longest-mountain-in-array](https://github.com/VarsKhushi/DSA-Task-Khushi-2215000645-Batch2/tree/master/0875-longest-mountain-in-array) |
 | [1013-fibonacci-number](https://github.com/VarsKhushi/DSA-Task-Khushi-Varshney-2215000913-Batch2/tree/master/1013-fibonacci-number) |

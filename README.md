@@ -146,6 +146,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0042-trapping-rain-water](https://github.com/VarsKhushi/DSA-Task-Khushi-Varshney-2215000913-Batch2/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/VarsKhushi/DSA-Task-Khushi-Varshney-2215000913-Batch2/tree/master/0075-sort-colors) |
 | [0152-maximum-product-subarray](https://github.com/VarsKhushi/DSA-Task-Khushi-2215000645-Batch2/tree/master/0152-maximum-product-subarray) |
+| [0268-missing-number](https://github.com/VarsKhushi/DSA-Task-Khushi-Varshney-2215000913-Batch2/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/VarsKhushi/DSA-Task-Khushi-Varshney-2215000913-Batch2/tree/master/0300-longest-increasing-subsequence) |
 | [0455-assign-cookies](https://github.com/VarsKhushi/DSA-Task-Khushi-2215000645-Batch2/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/VarsKhushi/DSA-Task-Khushi-Varshney-2215000913-Batch2/tree/master/0494-target-sum) |
@@ -207,6 +208,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0016-3sum-closest](https://github.com/VarsKhushi/DSA-Task-Khushi-2215000645-Batch2/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/VarsKhushi/DSA-Task-Khushi-Varshney-2215000913-Batch2/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/VarsKhushi/DSA-Task-Khushi-Varshney-2215000913-Batch2/tree/master/0075-sort-colors) |
+| [0268-missing-number](https://github.com/VarsKhushi/DSA-Task-Khushi-Varshney-2215000913-Batch2/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/VarsKhushi/DSA-Task-Khushi-2215000645-Batch2/tree/master/0455-assign-cookies) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/VarsKhushi/DSA-Task-Khushi-Varshney-2215000913-Batch2/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2756-buy-two-chocolates](https://github.com/VarsKhushi/DSA-Task-Khushi-2215000645-Batch2/tree/master/2756-buy-two-chocolates) |
@@ -214,6 +216,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 ## Hash Table
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/VarsKhushi/DSA-Task-Khushi-Varshney-2215000913-Batch2/tree/master/0268-missing-number) |
 | [1044-find-common-characters](https://github.com/VarsKhushi/DSA-Task-Khushi-2215000645-Batch2/tree/master/1044-find-common-characters) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/VarsKhushi/DSA-Task-Khushi-Varshney-2215000913-Batch2/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/VarsKhushi/DSA-Task-Khushi-Varshney-2215000913-Batch2/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -237,6 +240,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/VarsKhushi/DSA-Task-Khushi-Varshney-2215000913-Batch2/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/VarsKhushi/DSA-Task-Khushi-Varshney-2215000913-Batch2/tree/master/0300-longest-increasing-subsequence) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/VarsKhushi/DSA-Task-Khushi-Varshney-2215000913-Batch2/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/VarsKhushi/DSA-Task-Khushi-Varshney-2215000913-Batch2/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -353,6 +357,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | ------- |
 | [0062-unique-paths](https://github.com/VarsKhushi/DSA-Task-Khushi-Varshney-2215000913-Batch2/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/VarsKhushi/DSA-Task-Khushi-Varshney-2215000913-Batch2/tree/master/0070-climbing-stairs) |
+| [0268-missing-number](https://github.com/VarsKhushi/DSA-Task-Khushi-Varshney-2215000913-Batch2/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/VarsKhushi/DSA-Task-Khushi-Varshney-2215000913-Batch2/tree/master/1013-fibonacci-number) |
 | [1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/VarsKhushi/DSA-Task-Khushi-Varshney-2215000913-Batch2/tree/master/1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
 ## Combinatorics
@@ -390,4 +395,8 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/VarsKhushi/DSA-Task-Khushi-Varshney-2215000913-Batch2/tree/master/1013-fibonacci-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/VarsKhushi/DSA-Task-Khushi-Varshney-2215000913-Batch2/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->

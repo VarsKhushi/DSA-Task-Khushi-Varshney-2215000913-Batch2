@@ -146,6 +146,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0042-trapping-rain-water](https://github.com/VarsKhushi/DSA-Task-Khushi-Varshney-2215000913-Batch2/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/VarsKhushi/DSA-Task-Khushi-Varshney-2215000913-Batch2/tree/master/0075-sort-colors) |
 | [0152-maximum-product-subarray](https://github.com/VarsKhushi/DSA-Task-Khushi-2215000645-Batch2/tree/master/0152-maximum-product-subarray) |
+| [0239-sliding-window-maximum](https://github.com/VarsKhushi/DSA-Task-Khushi-Varshney-2215000913-Batch2/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/VarsKhushi/DSA-Task-Khushi-Varshney-2215000913-Batch2/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/VarsKhushi/DSA-Task-Khushi-Varshney-2215000913-Batch2/tree/master/0300-longest-increasing-subsequence) |
 | [0455-assign-cookies](https://github.com/VarsKhushi/DSA-Task-Khushi-2215000645-Batch2/tree/master/0455-assign-cookies) |
@@ -266,6 +267,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 ## Sliding Window
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/VarsKhushi/DSA-Task-Khushi-Varshney-2215000913-Batch2/tree/master/0239-sliding-window-maximum) |
 | [1755-defuse-the-bomb](https://github.com/VarsKhushi/DSA-Task-Khushi-Varshney-2215000913-Batch2/tree/master/1755-defuse-the-bomb) |
 | [1813-maximum-erasure-value](https://github.com/VarsKhushi/DSA-Task-Khushi-2215000645-Batch2/tree/master/1813-maximum-erasure-value) |
 | [2211-k-radius-subarray-averages](https://github.com/VarsKhushi/DSA-Task-Khushi-2215000645-Batch2/tree/master/2211-k-radius-subarray-averages) |
@@ -300,6 +302,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/VarsKhushi/DSA-Task-Khushi-Varshney-2215000913-Batch2/tree/master/0023-merge-k-sorted-lists) |
+| [0239-sliding-window-maximum](https://github.com/VarsKhushi/DSA-Task-Khushi-Varshney-2215000913-Batch2/tree/master/0239-sliding-window-maximum) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/VarsKhushi/DSA-Task-Khushi-Varshney-2215000913-Batch2/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/VarsKhushi/DSA-Task-Khushi-Varshney-2215000913-Batch2/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 ## Merge Sort
@@ -399,4 +402,12 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/VarsKhushi/DSA-Task-Khushi-Varshney-2215000913-Batch2/tree/master/0268-missing-number) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/VarsKhushi/DSA-Task-Khushi-Varshney-2215000913-Batch2/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/VarsKhushi/DSA-Task-Khushi-Varshney-2215000913-Batch2/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->

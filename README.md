@@ -152,6 +152,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0300-longest-increasing-subsequence](https://github.com/VarsKhushi/DSA-Task-Khushi-Varshney-2215000913-Batch2/tree/master/0300-longest-increasing-subsequence) |
 | [0455-assign-cookies](https://github.com/VarsKhushi/DSA-Task-Khushi-2215000645-Batch2/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/VarsKhushi/DSA-Task-Khushi-Varshney-2215000913-Batch2/tree/master/0494-target-sum) |
+| [0542-01-matrix](https://github.com/VarsKhushi/DSA-Task-Khushi-Varshney-2215000913-Batch2/tree/master/0542-01-matrix) |
 | [0787-sliding-puzzle](https://github.com/VarsKhushi/DSA-Task-Khushi-Varshney-2215000913-Batch2/tree/master/0787-sliding-puzzle) |
 | [0875-longest-mountain-in-array](https://github.com/VarsKhushi/DSA-Task-Khushi-2215000645-Batch2/tree/master/0875-longest-mountain-in-array) |
 | [0890-lemonade-change](https://github.com/VarsKhushi/DSA-Task-Khushi-2215000645-Batch2/tree/master/0890-lemonade-change) |
@@ -257,6 +258,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0152-maximum-product-subarray](https://github.com/VarsKhushi/DSA-Task-Khushi-2215000645-Batch2/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/VarsKhushi/DSA-Task-Khushi-Varshney-2215000913-Batch2/tree/master/0300-longest-increasing-subsequence) |
 | [0494-target-sum](https://github.com/VarsKhushi/DSA-Task-Khushi-Varshney-2215000913-Batch2/tree/master/0494-target-sum) |
+| [0542-01-matrix](https://github.com/VarsKhushi/DSA-Task-Khushi-Varshney-2215000913-Batch2/tree/master/0542-01-matrix) |
 | [0875-longest-mountain-in-array](https://github.com/VarsKhushi/DSA-Task-Khushi-2215000645-Batch2/tree/master/0875-longest-mountain-in-array) |
 | [1013-fibonacci-number](https://github.com/VarsKhushi/DSA-Task-Khushi-Varshney-2215000913-Batch2/tree/master/1013-fibonacci-number) |
 | [1063-best-sightseeing-pair](https://github.com/VarsKhushi/DSA-Task-Khushi-Varshney-2215000913-Batch2/tree/master/1063-best-sightseeing-pair) |
@@ -330,6 +332,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/VarsKhushi/DSA-Task-Khushi-Varshney-2215000913-Batch2/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/VarsKhushi/DSA-Task-Khushi-Varshney-2215000913-Batch2/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0542-01-matrix](https://github.com/VarsKhushi/DSA-Task-Khushi-Varshney-2215000913-Batch2/tree/master/0542-01-matrix) |
 | [0787-sliding-puzzle](https://github.com/VarsKhushi/DSA-Task-Khushi-Varshney-2215000913-Batch2/tree/master/0787-sliding-puzzle) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/VarsKhushi/DSA-Task-Khushi-Varshney-2215000913-Batch2/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/VarsKhushi/DSA-Task-Khushi-Varshney-2215000913-Batch2/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -345,6 +348,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 ## Matrix
 |  |
 | ------- |
+| [0542-01-matrix](https://github.com/VarsKhushi/DSA-Task-Khushi-Varshney-2215000913-Batch2/tree/master/0542-01-matrix) |
 | [0787-sliding-puzzle](https://github.com/VarsKhushi/DSA-Task-Khushi-Varshney-2215000913-Batch2/tree/master/0787-sliding-puzzle) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/VarsKhushi/DSA-Task-Khushi-Varshney-2215000913-Batch2/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1972-rotating-the-box](https://github.com/VarsKhushi/DSA-Task-Khushi-Varshney-2215000913-Batch2/tree/master/1972-rotating-the-box) |
